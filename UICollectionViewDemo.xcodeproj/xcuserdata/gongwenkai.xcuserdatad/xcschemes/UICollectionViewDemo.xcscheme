@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8B9302F31DF710FF0060A2A3"
-               BuildableName = "&#x4f5c;&#x4e1a;3.app"
-               BlueprintName = "&#x4f5c;&#x4e1a;3"
-               ReferencedContainer = "container:&#x4f5c;&#x4e1a;3.xcodeproj">
+               BuildableName = "UICollectionViewDemo.app"
+               BlueprintName = "UICollectionViewDemo"
+               ReferencedContainer = "container:UICollectionViewDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8B9302F31DF710FF0060A2A3"
-            BuildableName = "&#x4f5c;&#x4e1a;3.app"
-            BlueprintName = "&#x4f5c;&#x4e1a;3"
-            ReferencedContainer = "container:&#x4f5c;&#x4e1a;3.xcodeproj">
+            BuildableName = "UICollectionViewDemo.app"
+            BlueprintName = "UICollectionViewDemo"
+            ReferencedContainer = "container:UICollectionViewDemo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8B9302F31DF710FF0060A2A3"
-            BuildableName = "&#x4f5c;&#x4e1a;3.app"
-            BlueprintName = "&#x4f5c;&#x4e1a;3"
-            ReferencedContainer = "container:&#x4f5c;&#x4e1a;3.xcodeproj">
+            BuildableName = "UICollectionViewDemo.app"
+            BlueprintName = "UICollectionViewDemo"
+            ReferencedContainer = "container:UICollectionViewDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8B9302F31DF710FF0060A2A3"
-            BuildableName = "&#x4f5c;&#x4e1a;3.app"
-            BlueprintName = "&#x4f5c;&#x4e1a;3"
-            ReferencedContainer = "container:&#x4f5c;&#x4e1a;3.xcodeproj">
+            BuildableName = "UICollectionViewDemo.app"
+            BlueprintName = "UICollectionViewDemo"
+            ReferencedContainer = "container:UICollectionViewDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
